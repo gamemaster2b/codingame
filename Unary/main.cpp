@@ -59,7 +59,7 @@ std::string binaryStringToUnary (std::string binaryString) {
         unary.erase(unary.length() - 1, 1);            
     }
 
-   return unary;
+    return unary;
 }
 
 int main () {

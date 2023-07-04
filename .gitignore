@@ -30,3 +30,11 @@
 *.exe
 *.out
 *.app
+
+# vscode specific
+.vscode/*
+!.vscode/settings.json
+
+# User-specific files
+*.ilk
+*.pdb
